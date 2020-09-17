@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HW msg="测试git！"/>
+    <div>123</div>
   </div>
 </template>
 
