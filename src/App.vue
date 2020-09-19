@@ -25,6 +25,9 @@ export default {
     selected:function(e){
       console.log(e);
     }
+  },
+  methods:{
+    
   }
 }
 </script>
